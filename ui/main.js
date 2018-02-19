@@ -1,3 +1,4 @@
+console.log("function start");
 var button=document.getElementById('counter');
  button.onclick = function(){
      console.log("function start");
